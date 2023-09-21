@@ -1,0 +1,35 @@
+.homecard {
+    display: flex;
+    width: 600px;
+    margin: auto;
+    margin-top: 30px;
+    margin-left: 180px;
+    font-size: xx-large;
+    
+  }
+  .col-md-4{
+   margin-top: 20px;
+   }
+   
+.card-body{
+    margin-right: 5px; 
+    margin-left: 30px;
+}
+.s {
+    box-shadow: 10px 10px  black;
+    border-radius: 10px;
+  }
+
+@media (max-width:768px) {
+    .homecard {
+        flex-direction: column; /* Stack the content vertically on smaller screens */
+        width: auto; /* Allow the content to be as wide as necessary */
+        margin: 20px auto; /* Adjust margin for spacing */
+        margin-right: auto; /* Reset right margin */
+        font-size: large; /* Adjust font size for smaller screens */
+    }
+
+    .col-md-4 {
+        margin-top: 20px; /* Adjust margin for spacing */
+    }
+}

@@ -1,0 +1,11 @@
+.hd {
+    text-align: left;
+    font-family:'Courier New', Courier, monospace;
+    font-weight: bolder;
+  }
+
+  .card text{
+    background-size: cover;
+    min-height: 60vh;
+    position: relative
+  }

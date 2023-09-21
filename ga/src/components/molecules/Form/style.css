@@ -1,0 +1,11 @@
+form{
+    box-shadow: 2px 6px 100px #ffffff;
+}
+.text-center {
+    position: relative;
+    top: 2px;
+    background-image: url('timeboking.jpg');
+    background-position: center ;
+    background-size: cover;
+  }
+  

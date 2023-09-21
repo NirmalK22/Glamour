@@ -1,0 +1,27 @@
+.navbar-brand
+{
+  font-size: x-large;
+  font-weight: bolder;
+  font-style:oblique;
+  
+}
+.navbar-nav .nav-link {
+    font-size: 18px; 
+  };
+  
+  .navbar-brand {
+
+    font-size: 24px; 
+ 
+  }
+  
+  .dropdown-menu
+  {
+    background-color: rgb(165, 165, 165);
+    font-size: 15px;
+    border-color: black;
+    
+  }
+  .container-fluid{
+   background-color:transparent;
+  }
